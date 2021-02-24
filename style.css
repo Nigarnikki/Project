@@ -124,7 +124,6 @@ main .main__about{
   height: 125px;
   border-radius: 50%;
   margin: 20px auto;
-  background-image: url(im.jpeg);
 }
 .team__cards {
   display: flex;
